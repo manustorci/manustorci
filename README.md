@@ -10,7 +10,6 @@ Hi! My name is Emanuele, and I'm a Computer Science student specializing in **Da
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 👨‍💻 Featured Projects:
-- **[Currently Working On: CalcioStats](https://github.com/manustorci/CalcioStats)** - Football statistics and analytics project.
-- **[Data Science Portfolio](your-project-url)** - Collection of projects in ML & Data Analysis.
-- **[Football Analytics Dashboard](your-project-url)** - An interactive dashboard for football match analysis.
-
+- **[Currently Working On: CalcioStats](https://github.com/manustorci/CalcioStats)** - Football statistics and analytics project
+- **[JTrash]([your-project-url](https://github.com/manustorci/JTrash))** - Card game called "Trash" written in Java
+- **[WordFreqGen]([your-project-url](https://github.com/manustorci/WordFreqGen))** - Text processing and generation project written in C, featuring word frequency analysis and multi-process execution
