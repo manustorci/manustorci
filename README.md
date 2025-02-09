@@ -1,10 +1,6 @@
 ### 👋 About Me:
 Hi! My name is Emanuele, and I'm a Computer Science student specializing in **Data Science**. I enjoy working on machine learning, data visualization, and backend development. Here, you'll find my projects, experiments, and open-source contributions.
 
-### 🌎 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)  
-
 ### 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
