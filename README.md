@@ -11,5 +11,5 @@ Hi! My name is Emanuele, and I'm a Computer Science student specializing in **Da
 
 ### 👨‍💻 Featured Projects:
 - **[Currently Working On: CalcioStats](https://github.com/manustorci/CalcioStats)** - Football statistics and analytics project
-- **[JTrash]([your-project-url](https://github.com/manustorci/JTrash)** - Card game called "Trash" written in Java
-- **[WordFreqGen]([your-project-url](https://github.com/manustorci/WordFreqGen)** - Text processing and generation project written in C, featuring word frequency analysis and multi-process execution
+- **[JTrash](https://github.com/manustorci/JTrash)** - Card game called "Trash" written in Java
+- **[WordFreqGen](https://github.com/manustorci/WordFreqGen)** - Text processing and generation project written in C, featuring word frequency analysis and multi-process execution
