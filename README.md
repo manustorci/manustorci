@@ -9,11 +9,8 @@ Hi! My name is Emanuele, and I'm a Computer Science student specializing in **Da
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 GitHub Stats:
-![Emanuele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-### 🚀 Featured Projects:
+### 👨‍💻 Featured Projects:
+- **[Currently Working On: CalcioStats](https://github.com/manustorci/CalcioStats)** - Football statistics and analytics project.
 - **[Data Science Portfolio](your-project-url)** - Collection of projects in ML & Data Analysis.
 - **[Football Analytics Dashboard](your-project-url)** - An interactive dashboard for football match analysis.
 
-💬 *Let's connect and build something cool together!* 🚀
