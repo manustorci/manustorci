@@ -9,7 +9,7 @@ Hi! My name is Emanuele, and I'm a Computer Science student specializing in **Da
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-013243?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 👨‍💻 Featured Projects
 - **[CalcioStats](https://github.com/manustorci/CalcioStats)** - Football statistics and analytics project [Currently Working]
