@@ -16,4 +16,5 @@ Hi! My name is Emanuele, and I'm a Computer Science student. I enjoy working on 
 - **[JTrash](https://github.com/manustorci/JTrash)** - Card game called "Trash" written in Java
 - **[WordFreqGen](https://github.com/manustorci/WordFreqGen)** - Text processing and generation project written in C, featuring word frequency analysis and multi-process execution
 
-![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW0wOXBlcnJiM3ppM25zNjc4dGYyaGx5eXNwY2xobDN5NnJnZXA1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4qgIMGqc0PwGJLdBd/giphy.gif)
+![Alt Text]
+(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazk1NWJ1ZW54bTdveGpzNXl4dm5lazRiMDZqcGw0dDVpajR5bHd2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7D0K9w9LQAdwgGcrWR/giphy.gif)
