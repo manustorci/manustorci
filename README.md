@@ -16,4 +16,6 @@ Hi! My name is Emanuele, and I'm a Computer Science student. I enjoy working on 
 - **[JTrash](https://github.com/manustorci/JTrash)** - Card game called "Trash" written in Java
 - **[WordFreqGen](https://github.com/manustorci/WordFreqGen)** - Text processing and generation project written in C, featuring word frequency analysis and multi-process execution
 - **[SQL-Injection](https://github.com/manustorci/SQL-Injection)** - SQL Injection Simulation on Vulnerable Web App Using Docker [Currently Working]
+- **[WASAText](https://github.com/manustorci/SQL-Injection)** - Full-stack messaging app project: OpenAPI-defined backend (Go), JS frontend, Docker deployment, and simplified login system [Currently Working]
+
 
