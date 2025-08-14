@@ -1,5 +1,5 @@
 ### 👋 About Me
-Hi! My name is Emanuele, and I'm a Computer Science student. I enjoy working on machine learning, data visualization and backend development. Here, you'll find my projects and experiments.
+Hi! My name is Emanuele, I enjoy working on machine learning, data visualization and backend development. Here, you'll find my projects and experiments.
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
