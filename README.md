@@ -13,8 +13,8 @@ Here, you'll find my projects and experiments.
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 👨‍💻 Featured Projects
-- **[CalcioStats](https://github.com/manustorci/CalcioStats)** - Football statistics and analytics project [Currently Working]
-- **[JTrash](https://github.com/manustorci/JTrash)** - Card game called "Trash" written in Java
+- **[Pokémon Battle Prediction](https://github.com/sly tzhh/fds-pokemon-2026)** - Team machine learning project for a Kaggle competition. Predicting battle outcomes using feature engineering, classical ML models, 5-fold cross-validation and ensemble methods.
+- - **[JTrash](https://github.com/manustorci/JTrash)** - Card game called "Trash" written in Java
 - **[WordFreqGen](https://github.com/manustorci/WordFreqGen)** - Text processing and generation project written in C, featuring word frequency analysis and multi-process execution
 - **[SQL-Injection](https://github.com/manustorci/SQL-Injection)** - SQL Injection Simulation on Vulnerable Web App Using Docker 
 - **[WASAText](https://github.com/manustorci/wasa-project)** - Full-stack messaging app project: OpenAPI-defined backend (Go), JS frontend, Docker deployment and simplified login system 
